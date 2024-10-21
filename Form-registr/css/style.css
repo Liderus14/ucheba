@@ -1,0 +1,43 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: #F39494;
+}
+
+.container{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.form{
+  width:582px;
+  height: 583px;
+  background-color: #FFFEFE;
+  margin-top: 225px;
+  margin-left: 429px;
+  border-radius: 10px;
+}
+
+.registr h1{
+  font-family: serif, "open sans";
+  text-align: center;
+  padding-top: 72px;
+  font-size: 36px;
+}
+
+.formblock{
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+}
+
+.form-block-p{
+  font-weight: 400;
+  font-size: 18px;
+}
+.form-block-a a{
+  font-weight: bold;
+  font-size: 20px;
+  color: #089FE0;
+}
